@@ -1,4 +1,4 @@
-# 📚 Mastering Relational and Non-Relational Database — FIAP
+# 📚 Mastering Relational and Non-Relational Database
 
 Repository dedicated to storing content, exercises, and projects from the **Mastering Relational and Non-Relational Database**.  
 The goal is to centralize learning about relational and non-relational databases, covering both theoretical concepts and practical applications with different models.
