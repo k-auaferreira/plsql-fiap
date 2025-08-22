@@ -1,3 +1,5 @@
+-- Utilizando variáveis
+
 SET SERVEROUTPUT ON;
 
 DECLARE
