@@ -1,0 +1,3 @@
+# Tratamento de arquivos para o GitHub Linguist
+plsql/*.sql linguist-language=PLSQL
+sql/*.sql linguist-language=SQL
